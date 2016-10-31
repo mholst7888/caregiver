@@ -11,7 +11,7 @@
   <property name="dist.conf.dir"   value="${dist.dir}/conf"/>
   <property name="classes.dir"     value="${build.dir}/classes"/>
 
-  <!-- kazlist main -->
+  <!-- caregiver main -->
   <property name="main-class"  value="com.mike.caregiver.main.Main"/>
 
   <!-- classpath -->
